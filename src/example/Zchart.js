@@ -3,9 +3,7 @@ import * as echarts from 'echarts';
 
 import ReactEcharts from 'echarts-for-react';
 
-import "./money.css"
-
-export default class money extends Component {
+export default class Zchart extends Component {
     getOption = () => {
         let option = {
             tooltip: {
