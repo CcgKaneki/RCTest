@@ -14,7 +14,7 @@ export default
         "#f49f42"
     ],
     "backgroundColor": "rgba(51,51,51,1)",
-    "textStyle": {},
+    "textStyle": {"color": "#ffffff"},
     "title": {
         "textStyle": {
             "color": "#ffffff"
@@ -139,7 +139,7 @@ export default
             "borderWidth": 0.5
         },
         "label": {
-            "color": "#000"
+            "color": "#ffffff"
         },
         "emphasis": {
             "itemStyle": {
