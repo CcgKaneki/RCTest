@@ -3,9 +3,7 @@ import './App.css';
 import * as echarts from 'echarts';
 import ReactEcharts from 'echarts-for-react';
 
-function App() {
-
-  getOption = () => {
+getOption = () => {
         let option = {
             tooltip: {
                 trigger: 'axis',
@@ -72,6 +70,9 @@ function App() {
       }
       return optionTwo;
   }
+
+
+function App() {
 
   return (
     <div className="App">
