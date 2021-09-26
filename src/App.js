@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 import Clock from './example/Clock';
-import Echarts from 'native-echarts'
 
 function App() {
   return (
