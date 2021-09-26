@@ -85,3 +85,6 @@ class Zchart extends Component {
         )
     }
 }
+
+export default Zchart;
+
