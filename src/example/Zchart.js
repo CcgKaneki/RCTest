@@ -1,9 +1,7 @@
 import React, { Component } from 'react'
-import * as echarts from 'echarts';
-
 import ReactEcharts from 'echarts-for-react';
 
-export default class Zchart extends Component {
+class Zchart extends Component {
     getOption = () => {
         let option = {
             tooltip: {
