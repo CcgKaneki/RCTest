@@ -12,7 +12,7 @@ const echartsTheme ={
         "#91ca8c",
         "#f49f42"
     ],
-    "backgroundColor": "rgba(51,51,51,1)",
+    "backgroundColor": "rgba(147,112,219,0.6)",
     "textStyle": {"color": "#ffffff"},
     "title": {
         "textStyle": {
@@ -381,9 +381,9 @@ const echartsTheme ={
     	"start": 0,
     	"end": 5,
     	"bottom":0, 
-        "backgroundColor": "rgba(230,230,250,0.5)",
+        "backgroundColor": "rgba(255,255,255,0.5)",
         "dataBackgroundColor": "#ffffff",
-        "fillerColor": "rgba(147,112,219,0.4)",
+        "fillerColor": "rgba(147,112,219,0.7)",
         "handleColor": "#ffffff",
         "handleSize": "100%",
         "textStyle": {
@@ -400,6 +400,7 @@ const echartsTheme ={
             }
         }
     }
+
 }
 
 
