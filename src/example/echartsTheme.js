@@ -379,11 +379,11 @@ const echartsTheme ={
     "dataZoom": {
     	"show":true,
     	"start": 0,
-    	"end": 5,
+    	"end": 15,
     	"bottom":0, 
         "backgroundColor": "rgba(255,255,255,0.5)",
         "dataBackgroundColor": "#ffffff",
-        "fillerColor": "rgba(147,112,219,0.7)",
+        "fillerColor": "rgba(205,127,50,0.7)",
         "handleColor": "#ffffff",
         "handleSize": "100%",
         "textStyle": {
