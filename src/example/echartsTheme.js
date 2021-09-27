@@ -1,5 +1,4 @@
-export default
-{
+export default{
     "color": [
         "#dd6b66",
         "#759aa0",
