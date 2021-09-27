@@ -1,5 +1,5 @@
 .zlh {
-  margin-top: 8vmin;
+  margin-top: 12vmin;
   height: 600px;
   width: 80vw;
 }
@@ -20,6 +20,18 @@
 
 .zljl{
   margin-top: 65px;
-  width: 100px;
-  display : inline
+  width: 80vw;
+  text-align: left;
+}
+
+.zlbt2 {
+  margin-top: 105px;
+  height: 20px;
+  width: 80vw;
+}
+
+.zlh2 {
+  margin-top: 12vmin;
+  height: 600px;
+  width: 80vw;
 }
