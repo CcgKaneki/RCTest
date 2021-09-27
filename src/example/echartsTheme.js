@@ -1,4 +1,4 @@
-export default{
+const echartsTheme ={
     "color": [
         "#dd6b66",
         "#759aa0",
@@ -402,6 +402,8 @@ export default{
     }
 }
 
+
+export default echartsTheme;
 
 
 
