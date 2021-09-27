@@ -169,6 +169,7 @@ class Zchart extends Component {
                 <h1 className="zlh">
                     <ReactEcharts className="biaoge" theme="theme"  option={this.getOption()} style={{ height: 600 }} />
                 </h1>
+                <h6 className="zljl"> ---1、乳铁蛋白只有皇家美素佳儿(1段和2段)有------2、飞鹤星飞帆部分营养成分明显偏少(主要是矿物质)---------3、飞鹤星飞帆独有成分(每100含量是：1,3-二油酸2-棕榈酸甘油三酯(6.0g),叶黄素(80.0μg),酪蛋白磷酸肽(40.0mg))---</h6>
                 
             </div>
         )
