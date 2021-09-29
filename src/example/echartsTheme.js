@@ -383,7 +383,7 @@ const echartsTheme ={
     	"bottom":0, 
         "backgroundColor": "rgba(255,255,255,0.5)",
         "dataBackgroundColor": "#ffffff",
-        "fillerColor": "rgba(205,127,50,0.7)",
+        "fillerColor": "rgba(181,238,248,1)",
         "handleColor": "#ffffff",
         "handleSize": "100%",
         "textStyle": {
